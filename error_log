@@ -1,0 +1,5 @@
+[22-Jul-2015 05:06:23] PHP Fatal error:  Call to undefined function  imagegrabscreen() in /home2/eplanet/public_html/affordablebestseo.com/testing/airodump/download.php on line 2
+[22-Jul-2015 05:08:32] PHP Fatal error:  Call to undefined function  imagegrabscreen() in /home2/eplanet/public_html/affordablebestseo.com/testing/airodump/download.php on line 2
+[22-Jul-2015 05:10:24] PHP Fatal error:  Call to undefined function  imagegrabscreen() in /home2/eplanet/public_html/affordablebestseo.com/testing/airodump/download.php on line 2
+[22-Jul-2015 05:11:29] PHP Fatal error:  Call to undefined function  imagegrabscreen() in /home2/eplanet/public_html/affordablebestseo.com/testing/airodump/download.php on line 2
+[22-Jul-2015 05:15:27] PHP Fatal error:  Call to undefined function  imagegrabscreen() in /home2/eplanet/public_html/affordablebestseo.com/testing/airodump/download.php on line 2
